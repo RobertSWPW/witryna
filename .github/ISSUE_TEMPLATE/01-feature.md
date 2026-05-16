@@ -10,16 +10,6 @@ assignees: ''
 
 Krótko opisz, co ma zostać wykonane.
 
-## Typ zadania
-
-Wybierz odpowiednią etykietę Issue, np.:
-
-- `typ: sekcja`
-- `typ: style`
-- `typ: javascript`
-- `typ: dokumentacja`
-- `typ: organizacja`
-
 ## Zakres prac
 
 - [ ] 
